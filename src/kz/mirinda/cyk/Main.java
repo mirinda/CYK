@@ -1,7 +1,7 @@
 package kz.mirinda.cyk;
 
 /**
- * new class
+ * Main class
  *
  * @author mirinda
  */
